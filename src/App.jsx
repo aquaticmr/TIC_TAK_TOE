@@ -1,5 +1,5 @@
 import "./App.css";
-import TIC from "./tic";
+import TIC from "./TIC";
 function App() {
   return <TIC />;
 }
